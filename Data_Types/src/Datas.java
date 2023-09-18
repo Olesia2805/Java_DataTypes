@@ -1,5 +1,5 @@
 
-public class Datas {
+public class Data {
 
 	public static void main(String[] args) {
 		
