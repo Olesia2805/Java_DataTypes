@@ -3,7 +3,7 @@ Eclipse
 
 Types of data
 
-![image](https://github.com/Olesia2805/Java_DataTypes/assets/90894720/edfd09f6-9162-46df-a98a-4c025d940082)
+![image](https://github.com/Olesia2805/Java_DataTypes/assets/90894720/59b6656d-cac9-42b1-b1c7-4d54917486d8)
 
 Constants
 
