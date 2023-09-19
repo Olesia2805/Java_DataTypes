@@ -3,7 +3,7 @@ public class Data {
 
 	public static void main(String[] args) {
 		
-		char letter = 'a';
+		char letter = 'a'; //in ASCII table decimal form has number 97
 		String title = "Java is easy";
 		int num = 365;
 		float decimal = 98.67f;
@@ -15,7 +15,7 @@ public class Data {
 		System.out.println("Temperature: " + decimal);
 		System.out.println("Answer: " + result);
 		
-		System.out.println(letter + num);
+		System.out.println(letter + num); //97 + 365 = 462
 		System.out.println(letter + " "  + title);
 		System.out.println(decimal + " "  + title);
 		System.out.println(num + " " + title + " " + letter);
